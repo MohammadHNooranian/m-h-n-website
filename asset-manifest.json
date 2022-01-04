@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/m-h-n-website/static/css/main.fc43ef1b.css",
+    "main.js": "/m-h-n-website/static/js/main.e2a9098e.js",
+    "static/js/787.592bd147.chunk.js": "/m-h-n-website/static/js/787.592bd147.chunk.js",
+    "static/media/foodilla.png": "/m-h-n-website/static/media/foodilla.954f706fe50cd434c465.png",
+    "static/media/Group 31@2x.png": "/m-h-n-website/static/media/Group 31@2x.d1b37a84df611db1eb09.png",
+    "static/media/foodailla-icon.png": "/m-h-n-website/static/media/foodailla-icon.92e67dad8d218dd8de0a.png",
+    "static/media/Shape 9.svg": "/m-h-n-website/static/media/Shape 9.351269487e8c3a2d8f5402f03f298675.svg",
+    "index.html": "/m-h-n-website/index.html",
+    "main.fc43ef1b.css.map": "/m-h-n-website/static/css/main.fc43ef1b.css.map",
+    "main.e2a9098e.js.map": "/m-h-n-website/static/js/main.e2a9098e.js.map",
+    "787.592bd147.chunk.js.map": "/m-h-n-website/static/js/787.592bd147.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fc43ef1b.css",
+    "static/js/main.e2a9098e.js"
+  ]
+}
